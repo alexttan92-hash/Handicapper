@@ -1,16 +1,9 @@
-import { Redirect } from 'expo-router';
-import { useAuth } from '../contexts/AuthContext';
+import { Text, View } from "react-native";
 
-export default function Index() {
-  const { user, loading } = useAuth();
-
-  if (loading) {
-    return null; // Or a loading screen
-  }
-
-  if (!user) {
-    return <Redirect href="/auth/login" />;
-  }
-
-  return <Redirect href="/(drawer)/(tabs)/following-feed" />;
+export default function App() {
+  return (
+    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+      <Text>Handicapper App Running</Text>
+    </View>
+  );
 }
