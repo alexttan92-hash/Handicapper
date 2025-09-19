@@ -1,0 +1,288 @@
+{
+  "NFL": {
+    "games": [
+      {
+        "id": "nfl_001",
+        "homeTeam": "Kansas City Chiefs",
+        "awayTeam": "Buffalo Bills",
+        "gameTime": "2024-01-15T20:00:00Z",
+        "moneyline": {
+          "home": -150,
+          "away": +130
+        },
+        "spread": {
+          "home": -3.5,
+          "away": +3.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 52.5,
+          "under": 52.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      },
+      {
+        "id": "nfl_002",
+        "homeTeam": "San Francisco 49ers",
+        "awayTeam": "Dallas Cowboys",
+        "gameTime": "2024-01-15T16:30:00Z",
+        "moneyline": {
+          "home": -200,
+          "away": +170
+        },
+        "spread": {
+          "home": -6.5,
+          "away": +6.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 48.5,
+          "under": 48.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      },
+      {
+        "id": "nfl_003",
+        "homeTeam": "Miami Dolphins",
+        "awayTeam": "New York Jets",
+        "gameTime": "2024-01-14T13:00:00Z",
+        "moneyline": {
+          "home": -120,
+          "away": +100
+        },
+        "spread": {
+          "home": -2.5,
+          "away": +2.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 44.5,
+          "under": 44.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      }
+    ]
+  },
+  "NBA": {
+    "games": [
+      {
+        "id": "nba_001",
+        "homeTeam": "Los Angeles Lakers",
+        "awayTeam": "Golden State Warriors",
+        "gameTime": "2024-01-15T22:00:00Z",
+        "moneyline": {
+          "home": -110,
+          "away": -110
+        },
+        "spread": {
+          "home": -1.5,
+          "away": +1.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 228.5,
+          "under": 228.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      },
+      {
+        "id": "nba_002",
+        "homeTeam": "Boston Celtics",
+        "awayTeam": "Miami Heat",
+        "gameTime": "2024-01-15T20:00:00Z",
+        "moneyline": {
+          "home": -180,
+          "away": +155
+        },
+        "spread": {
+          "home": -4.5,
+          "away": +4.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 215.5,
+          "under": 215.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      },
+      {
+        "id": "nba_003",
+        "homeTeam": "Denver Nuggets",
+        "awayTeam": "Phoenix Suns",
+        "gameTime": "2024-01-15T21:30:00Z",
+        "moneyline": {
+          "home": -140,
+          "away": +120
+        },
+        "spread": {
+          "home": -3.5,
+          "away": +3.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 222.5,
+          "under": 222.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      }
+    ]
+  },
+  "MLB": {
+    "games": [
+      {
+        "id": "mlb_001",
+        "homeTeam": "New York Yankees",
+        "awayTeam": "Boston Red Sox",
+        "gameTime": "2024-01-15T19:00:00Z",
+        "moneyline": {
+          "home": -130,
+          "away": +110
+        },
+        "spread": {
+          "home": -1.5,
+          "away": +1.5,
+          "homeOdds": +150,
+          "awayOdds": -180
+        },
+        "total": {
+          "over": 8.5,
+          "under": 8.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      },
+      {
+        "id": "mlb_002",
+        "homeTeam": "Los Angeles Dodgers",
+        "awayTeam": "San Francisco Giants",
+        "gameTime": "2024-01-15T22:00:00Z",
+        "moneyline": {
+          "home": -160,
+          "away": +140
+        },
+        "spread": {
+          "home": -1.5,
+          "away": +1.5,
+          "homeOdds": +120,
+          "awayOdds": -150
+        },
+        "total": {
+          "over": 7.5,
+          "under": 7.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      }
+    ]
+  },
+  "NHL": {
+    "games": [
+      {
+        "id": "nhl_001",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "New York Rangers",
+        "gameTime": "2024-01-15T19:00:00Z",
+        "moneyline": {
+          "home": -120,
+          "away": +100
+        },
+        "spread": {
+          "home": -1.5,
+          "away": +1.5,
+          "homeOdds": +180,
+          "awayOdds": -220
+        },
+        "total": {
+          "over": 6.5,
+          "under": 6.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      },
+      {
+        "id": "nhl_002",
+        "homeTeam": "Toronto Maple Leafs",
+        "awayTeam": "Montreal Canadiens",
+        "gameTime": "2024-01-15T20:00:00Z",
+        "moneyline": {
+          "home": -140,
+          "away": +120
+        },
+        "spread": {
+          "home": -1.5,
+          "away": +1.5,
+          "homeOdds": +160,
+          "awayOdds": -200
+        },
+        "total": {
+          "over": 6.0,
+          "under": 6.0,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      }
+    ]
+  },
+  "Soccer": {
+    "games": [
+      {
+        "id": "soccer_001",
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Barcelona",
+        "gameTime": "2024-01-15T15:00:00Z",
+        "moneyline": {
+          "home": -110,
+          "away": +280,
+          "draw": +250
+        },
+        "spread": {
+          "home": -0.5,
+          "away": +0.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 2.5,
+          "under": 2.5,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      },
+      {
+        "id": "soccer_002",
+        "homeTeam": "Manchester United",
+        "awayTeam": "Liverpool",
+        "gameTime": "2024-01-15T17:30:00Z",
+        "moneyline": {
+          "home": +150,
+          "away": +180,
+          "draw": +220
+        },
+        "spread": {
+          "home": +0.5,
+          "away": -0.5,
+          "homeOdds": -110,
+          "awayOdds": -110
+        },
+        "total": {
+          "over": 3.0,
+          "under": 3.0,
+          "overOdds": -110,
+          "underOdds": -110
+        }
+      }
+    ]
+  }
+}
